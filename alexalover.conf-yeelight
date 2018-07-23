@@ -1,0 +1,5 @@
+# Only 16 devices can be used
+# Enter your devices with this format:
+# Name;script to turn on; script to turn off; Port (0 if not set)
+Luz;/home/kix/src/alexalover/scripts/yeelight-blue-on.sh;/home/kix/src/alexalover/scripts/yeelight-off.sh;50000
+Dormitorio;/home/kix/src/alexalover/scripts/dorm-blue-on.sh;/home/kix/src/alexalover/scripts/dorm-off.sh;50001

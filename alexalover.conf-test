@@ -1,0 +1,5 @@
+# Only 16 devices can be used
+# Enter your devices with this format:
+# Name;script to turn on; script to turn off; Port (0 if not set)
+Test1;/home/kix/src/alexalover/scripts/test-on.sh;/home/kix/src/alexalover/scripts/test-off.sh;0
+Test2;/home/kix/src/alexalover/scripts/test-on.sh;/home/kix/src/alexalover/scripts/test-off.sh;0
